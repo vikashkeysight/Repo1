@@ -1,0 +1,15 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is A2AB-A5A1
+
+ Directory of D:\Vikash\GIT\FirstGitProject
+
+12/02/2019  02:45 PM    <DIR>          .
+12/02/2019  02:45 PM    <DIR>          ..
+12/02/2019  02:45 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  263,518,437,376 bytes free
+
+
+=============================
+
+# first line of code.
